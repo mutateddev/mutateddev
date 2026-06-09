@@ -53,7 +53,7 @@ alt="mutateddev's GitHub Streak" width="67%" />
 
 <h3 style='font-size:20px;'>Most Used Languages</h3>
 <a href="https://github.com/mutateddev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mutateddev&langs_count=8&layout=compact&theme=github-dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mutateddev&langs_count=5&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
   </a>
 
 <br/>
