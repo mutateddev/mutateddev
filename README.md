@@ -56,11 +56,7 @@ Frontend Developer focused on building clean, scalable, and performant web appli
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mutateddev&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutateddev&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mutateddev&theme=tokyonight&hide_border=true&hide_total_contributions=true" width="70%" />
 </p>
 
 ---
