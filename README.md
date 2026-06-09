@@ -41,17 +41,19 @@
 <!-- STATS -->
 <h3 style='font-size:20px;'>GitHub Stats</h3>
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mutateddev&theme=github-dark&radius=10" alt="mutateddev's Activity Graph" />
+<p>
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mutateddev&theme=github-dark&radius=10&hide_border=true" alt="mutateddev's Activity Graph" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mutateddev&theme=github-dark&hide_border=true&cache_seconds=86400" alt="mutateddev's GitHub Streak" width="67%" />
+<p>
+  <img src="https://streak-stats.demolab.com/?user=mutateddev&theme=github-dark&hide_border=true&cache_seconds=86400&hide_total_contributions=true" 
+alt="mutateddev's GitHub Streak" width="67%" />
+</p>
 
 ---
 
 <h3 style='font-size:20px;'>Most Used Languages</h3>
 <a href="https://github.com/mutateddev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mutateddev&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mutateddev&langs_count=8&layout=compact&theme=github-dark&border_radius=10" alt="Top Languages" />
   </a>
 
 <br/>
