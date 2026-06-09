@@ -1,22 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?
-type=waving
-&height=240
-&color=0:11111b,100:2a2a40
-&text=MutatedDev🧬
-&fontSize=54
-&fontColor=c4c7fc
-&animation=twinkling
-&fontAlignY=32
-&desc=Frontend%20Developer%20•%20React%20•%20Next.js
-&descSize=24
-&descAlignY=58
-"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:11111b,100:2a2a40&text=MutatedDev🧬&fontSize=54&fontColor=c4c7fc&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20•%20React%20•%20Next.js&descSize=24&descAlignY=58" />
 
 <!-- SIGNATURE -->
 <p>
