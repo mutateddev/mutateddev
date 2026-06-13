@@ -5,8 +5,8 @@
 
 <!-- SIGNATURE -->
 <p>
-  <i>Building systems from ideas → reality.</i><br/>
-  <b>Everything is connected to 17.</b>
+  <b>Designing logic that turns into experience.</b><br/>
+  <i>17 is not a number — it's a pattern.</b>
 </p>
 
 <!-- TYPING -->
